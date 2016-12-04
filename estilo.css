@@ -1,0 +1,124 @@
+#header
+{
+height: 160px;
+background-color: darkslategray;
+margin: auto; 
+color: white;
+font-family: cursive;
+text-align: center;
+height: 60;
+}
+
+#menu 
+{  
+color: white;
+text-align: center;
+font-family: cambria;
+height: auto;
+background-color:seagreen;
+margin: auto;
+margin-bottom: 5px;
+}
+
+#contenido 
+{ 
+border-top: 6px solid #666666;
+background-color: cadetblue;
+width: 70%;
+min-height: 300px;
+font-family: arial;
+text-align: justify;
+}
+
+#barra_lateral 
+{
+    text-align: center;
+color: white;
+border-top: 6px solid #666666;
+background-color: cadetblue;
+width: 29%;
+min-height: 300px;  
+}
+
+#barra_lateral, #contenido
+{
+display: inline-block;
+vertical-align: middle;    
+}
+
+#pie
+{
+text-align: center;
+color: white;
+background-color: darkslategray;
+border-top: 6px solid #666666;
+min-height: 100px;
+margin: 2px;
+}
+
+.datos{
+    text-align: left;
+}
+
+.me1 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+
+}
+.me1:hover {
+color: blue;
+font-size: 23px;
+}
+
+.me2 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.me2:hover {
+color: blue;
+font-size: 23px;
+}
+
+
+.me3 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.me3:hover {
+color: blue;
+font-size: 23px;
+}
+
+
+.me4 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.me4:hover {
+color: blue;
+font-size: 23px;
+}
+
+.me5 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.me5:hover {
+color: blue;
+font-size: 23px;
+}
+
